@@ -1,0 +1,679 @@
+[DATETIME] 2024-02-07 18:32:37
+[TITLE] National Refined Salt 800g
+[URL] https://www.daraz.pk/products/national-refined-salt-800g-i282677094-s1521041080.html?search=1
+[Actual Price] Rs. 70
+[Discount Price] Rs. 66
+[Discount Percentage] 5%
+
+[DATETIME] 2024-02-07 18:32:37
+[TITLE] MEZAN Cooking Oil 100 Percent Naturally Sourced 4.5 Liters
+[URL] https://www.daraz.pk/products/mezan-cooking-oil-100-percent-naturally-sourced-45-liters-i185014464-s1369886002.html?search=1
+[Actual Price] Rs. 3,025
+[Discount Price] Rs. 2,045
+[Discount Percentage] 32%
+
+[DATETIME] 2024-02-07 18:32:37
+[TITLE] National Iodized Refined Table Salt 800gm
+[URL] https://www.daraz.pk/products/national-iodized-refined-table-salt-800gm-i282683448-s1521098124.html?search=1
+[Actual Price] Rs. 70
+[Discount Price] Rs. 59
+[Discount Percentage] 15%
+
+[DATETIME] 2024-02-07 18:32:37
+[TITLE] Spices.pk Chia seeds / Chia seeds for weight loss / Chia seeds Organic / Fresh chia seeds wt.250gm
+[URL] https://www.daraz.pk/products/250-i282000035-s1516167881.html?search=1
+[Actual Price] Rs. 999
+[Discount Price] Rs. 669
+[Discount Percentage] 33%
+
+[DATETIME] 2024-02-07 18:32:38
+[TITLE] National foods Chilli Garlic Sauce 800G (Pouch)
+[URL] https://www.daraz.pk/products/national-foods-chilli-garlic-sauce-800g-pouch-i213362212-s1421758337.html?search=1
+[Actual Price] Rs. 400
+[Discount Price] Rs. 304
+[Discount Percentage] 24%
+
+[DATETIME] 2024-02-07 18:32:38
+[TITLE] National Iodized Pink Salt Fine 800g
+[URL] https://www.daraz.pk/products/national-iodized-pink-salt-fine-800g-i318542233-s1691068010.html?search=1
+[Actual Price] Rs. 90
+[Discount Price] Rs. 78
+[Discount Percentage] 13%
+
+[DATETIME] 2024-02-07 18:32:55
+[TITLE] Bombay Biryani 140g
+[URL] https://www.daraz.pk/products/bombay-biryani-140g-i392557415-s1916581561.html?search=1
+[Actual Price] Rs. 230
+[Discount Price] Rs. 207
+[Discount Percentage] 10%
+
+[DATETIME] 2024-02-07 18:32:55
+[TITLE] TAAZA DHANIA POWDER 200 GM
+[URL] https://www.daraz.pk/products/taaza-dhania-powder-200-gm-i349450356-s1780224248.html?search=1
+[Actual Price] Rs. 310
+[Discount Price] Rs. 190
+[Discount Percentage] 38%
+
+[DATETIME] 2024-02-07 18:32:55
+[TITLE] Chia seeds Pack of two ( چیا سیڈ ) chia seeds for weight loss / chia seeds Organic / fresh chia seeds wt. 250+250 grams
+[URL] https://www.daraz.pk/products/250250-i301855245-s1634182818.html?search=1
+[Actual Price] Rs. 2,999
+[Discount Price] Rs. 1,199
+[Discount Percentage] 60%
+
+[DATETIME] 2024-02-07 18:32:56
+[TITLE] National foods Synthetic VINEGAR 800ML
+[URL] https://www.daraz.pk/products/national-foods-synthetic-vinegar-800ml-i213362208-s1421758329.html?search=1
+[Actual Price] Rs. 218
+[Discount Price] Rs. 193
+[Discount Percentage] 11%
+
+[DATETIME] 2024-02-07 18:32:56
+[TITLE] National foods Chilli Garlic Sauce 400G (Pouch)
+[URL] https://www.daraz.pk/products/national-foods-chilli-garlic-sauce-400g-pouch-i407649691-s1956290531.html?search=1
+[Actual Price] Rs. 222
+[Discount Price] Rs. 199
+[Discount Percentage] 10%
+
+[DATETIME] 2024-02-07 18:32:56
+[TITLE] Canderel Stevia Tab 100s
+[URL] https://www.daraz.pk/products/canderel-stevia-tab-100s-i431354675-s2056871795.html?search=1
+[Actual Price] Rs. 390
+[Discount Price] Rs. 351
+[Discount Percentage] 10%
+
+[DATETIME] 2024-02-07 18:32:56
+[TITLE] Soy Sauce 800ml PET
+[URL] https://www.daraz.pk/products/soy-sauce-800ml-pet-i355060967-s1789034281.html?search=1
+[Actual Price] Rs. 285
+[Discount Price] Rs. 253
+[Discount Percentage] 11%
+
+[DATETIME] 2024-02-07 18:32:56
+[TITLE] National Kasuri Methi 25g
+[URL] https://www.daraz.pk/products/kasuri-methi-25g-i320783021-s1702038813.html?search=1
+[Actual Price] Rs. 60
+[Discount Price] Rs. 57
+[Discount Percentage] 5%
+
+[DATETIME] 2024-02-07 18:32:57
+[TITLE] FRIED FISH MASALA 100GM
+[URL] https://www.daraz.pk/products/fried-fish-masala-100gm-i361149460-s1810334122.html?search=1
+[Actual Price] Rs. 230
+[Discount Price] Rs. 194
+[Discount Percentage] 15%
+
+[DATETIME] 2024-02-07 18:32:57
+[TITLE] Shan Karhai 95 gm
+[URL] https://www.daraz.pk/products/shan-karhai-95-gm-i324688851-s1705362656.html?search=1
+[Actual Price] Rs. 250
+[Discount Price] Rs. 233
+[Discount Percentage] 6%
+
+[DATETIME] 2024-02-07 18:32:57
+[TITLE] Coriander Whole200g
+[URL] https://www.daraz.pk/products/coriander-whole200g-i362829831-s1813411119.html?search=1
+[Actual Price] Rs. 225
+[Discount Price] Rs. 217
+[Discount Percentage] 3%
+
+[DATETIME] 2024-02-07 18:32:57
+[TITLE] National Foods Biryani Masala 39G
+[URL] https://www.daraz.pk/products/national-foods-biryani-masala-39g-i213368196-s1421764207.html?search=1
+[Actual Price] Rs. 120
+[Discount Price] Rs. 103
+[Discount Percentage] 14%
+
+[DATETIME] 2024-02-07 18:32:57
+[TITLE] KEEMA MASALA 50 gm
+[URL] https://www.daraz.pk/products/keema-masala-50-gm-i352888261-s1785846937.html?search=1
+[Actual Price] Rs. 130
+[Discount Price] Rs. 119
+[Discount Percentage] 8%
+
+[DATETIME] 2024-02-07 18:32:58
+[TITLE] Tropicana Slim Stevia Sweetener 50 Sachets
+[URL] https://www.daraz.pk/products/tropicana-slim-stevia-sweetener-50-sachets-i382512649-s1883754018.html?search=1
+[Actual Price] Rs. 1,999
+[Discount Price] Rs. 1,290
+[Discount Percentage] 35%
+
+[DATETIME] 2024-02-07 18:32:58
+[TITLE] National foods Tomato Ketchup 219 gm (Pouch)
+[URL] https://www.daraz.pk/products/national-foods-tomato-ketchup-219-gm-pouch-i417610453-s1980582822.html?search=1
+[Actual Price] Rs. 125
+[Discount Price] Rs. 79
+[Discount Percentage] 36%
+
+[DATETIME] 2024-02-07 18:32:58
+[TITLE] Kake Strawberry (20 Packs)
+[URL] https://www.daraz.pk/products/kake-strawberry-20-packs-i419408552-s1983809809.html?search=1
+[Actual Price] Rs. 200
+[Discount Price] Rs. 192
+[Discount Percentage] 4%
+
+[DATETIME] 2024-02-07 18:32:58
+[TITLE] Sunridge FiberFit Atta 5 KG
+[URL] https://www.daraz.pk/products/sunridge-fiberfit-atta-5-kg-i217929664-s1428656985.html?search=1
+[Actual Price] Rs. 945
+[Discount Price] Rs. 898
+[Discount Percentage] 4%
+
+[DATETIME] 2024-02-07 18:32:59
+[TITLE] National foods Soya Sauce 300ml
+[URL] https://www.daraz.pk/products/national-foods-soya-sauce-300ml-i213358213-s1421770007.html?search=1
+[Actual Price] Rs. 176
+[Discount Price] Rs. 102
+[Discount Percentage] 42%
+
+[DATETIME] 2024-02-07 18:33:00
+[TITLE] National Foods Quorma Masala 43G
+[URL] https://www.daraz.pk/products/national-foods-quorma-masala-43g-i213364224-s1421746911.html?search=1
+[Actual Price] Rs. 120
+[Discount Price] Rs. 110
+[Discount Percentage] 8%
+
+[DATETIME] 2024-02-07 18:33:01
+[TITLE] Canderel Sweetener-105g Jar
+[URL] https://www.daraz.pk/products/canderel-sweetener-105g-jar-i431368965-s2056895688.html?search=1
+[Actual Price] Rs. 520
+[Discount Price] Rs. 439
+[Discount Percentage] 15%
+
+[DATETIME] 2024-02-07 18:33:29
+[TITLE] SHAN TEZ LAL MIRCH POWDER 360 GM NP
+[URL] https://www.daraz.pk/products/shan-tez-lal-mirch-powder-360-gm-np-i349451218-s1780224249.html?search=1
+[Actual Price] Rs. 760
+[Discount Price] Rs. 688
+[Discount Percentage] 9%
+
+[DATETIME] 2024-02-07 18:33:29
+[TITLE] CHICKEN JALFREZI 50gm
+[URL] https://www.daraz.pk/products/chicken-jalfrezi-50gm-i352888256-s1785847877.html?search=1
+[Actual Price] Rs. 120
+[Discount Price] Rs. 111
+[Discount Percentage] 7%
+
+[DATETIME] 2024-02-07 18:33:30
+[TITLE] National Tikka Boti Masala 44g
+[URL] https://www.daraz.pk/products/national-tikka-boti-masala-44g-i318536961-s1691064744.html?search=1
+[Actual Price] Rs. 120
+[Discount Price] Rs. 103
+[Discount Percentage] 14%
+
+[DATETIME] 2024-02-07 18:33:30
+[TITLE] Soy Sauce 300ml PET
+[URL] https://www.daraz.pk/products/soy-sauce-300ml-pet-i355061466-s1789034280.html?search=1
+[Actual Price] Rs. 145
+[Discount Price] Rs. 134
+[Discount Percentage] 7%
+
+[DATETIME] 2024-02-07 18:33:30
+[TITLE] Apple Cider Vinegar 485ml
+[URL] https://www.daraz.pk/products/apple-cider-vinegar-485ml-i355061467-s1789033416.html?search=1
+[Actual Price] Rs. 380
+[Discount Price] Rs. 353
+[Discount Percentage] 7%
+
+[DATETIME] 2024-02-07 18:33:30
+[TITLE] FALAK ARABIAN SEA SALT 400 GM
+[URL] https://www.daraz.pk/products/falak-arabian-sea-salt-400-gm-i364886893-s1816646191.html?search=1
+[Actual Price] Rs. 100
+[Discount Price] Rs. 88
+[Discount Percentage] 12%
+
+[DATETIME] 2024-02-07 18:33:30
+[TITLE] National foods Sindhi Biryani 45G
+[URL] https://www.daraz.pk/products/national-foods-sindhi-biryani-45g-i213356292-s1421768175.html?search=1
+[Actual Price] Rs. 120
+[Discount Price] Rs. 109
+[Discount Percentage] 9%
+
+[DATETIME] 2024-02-07 18:33:30
+[TITLE] Young's Creamy & Salted Mayonnaise 200ml
+[URL] https://www.daraz.pk/products/youngs-creamy-salted-mayonnaise-200ml-i314234630-s1663142424.html?search=1
+[Actual Price] Rs. 165
+[Discount Price] Rs. 104
+[Discount Percentage] 36%
+
+[DATETIME] 2024-02-07 18:33:30
+[TITLE] Knorr Tomato Ketchup - 400G
+[URL] https://www.daraz.pk/products/knorr-tomato-ketchup-400g-i183740898-s1366828446.html?search=1
+[Actual Price] Rs. 430
+[Discount Price] Rs. 344
+[Discount Percentage] 20%
+
+[DATETIME] 2024-02-07 18:33:30
+[TITLE] Dipitt Natural Vinegar 800ml
+[URL] https://www.daraz.pk/products/dipitt-natural-vinegar-800ml-i377698639-s1863864632.html?search=1
+[Actual Price] Rs. 205
+[Discount Price] Rs. 183
+[Discount Percentage] 10%
+
+[DATETIME] 2024-02-07 18:33:30
+[TITLE] Dipitt Honey Mustard 290gm
+[URL] https://www.daraz.pk/products/dipitt-honey-mustard-290gm-i377689799-s1863871276.html?search=1
+[Actual Price] Rs. 555
+[Discount Price] Rs. 518
+[Discount Percentage] 6%
+
+[DATETIME] 2024-02-07 18:33:31
+[TITLE] Organic Chia Seeds For Weight Loss, 150Gm
+[URL] https://www.daraz.pk/products/organic-chia-seeds-for-weight-loss-150gm-i413133394-s1970831082.html?search=1
+[Actual Price] Rs. 599
+[Discount Price] Rs. 369
+[Discount Percentage] 38%
+
+[DATETIME] 2024-02-07 18:33:31
+[TITLE] Canderel Sweetener-50 Sachets Box
+[URL] https://www.daraz.pk/products/canderel-sweetener-50-sachets-box-i431372826-s2056894777.html?search=1
+[Actual Price] Rs. 340
+[Discount Price] Rs. 201
+[Discount Percentage] 40%
+
+[DATETIME] 2024-02-07 18:33:31
+[TITLE] White Pepper Powder50 grm
+[URL] https://www.daraz.pk/products/white-pepper-powder50-grm-i362827976-s1813407967.html?search=1
+[Actual Price] Rs. 191
+[Discount Price] Rs. 125
+[Discount Percentage] 34%
+
+[DATETIME] 2024-02-07 18:33:32
+[TITLE] Imli Ginger Sauce Mini Pack 225gm
+[URL] https://www.daraz.pk/products/imli-ginger-sauce-mini-pack-225gm-i355066046-s1789029812.html?search=1
+[Actual Price] Rs. 125
+[Discount Price] Rs. 118
+[Discount Percentage] 5%
+
+[DATETIME] 2024-02-07 18:33:32
+[TITLE] HALEEM MASALA 50 gm
+[URL] https://www.daraz.pk/products/haleem-masala-50-gm-i352887661-s1785847880.html?search=1
+[Actual Price] Rs. 130
+[Discount Price] Rs. 117
+[Discount Percentage] 10%
+
+[DATETIME] 2024-02-07 18:33:49
+[TITLE] Mezan Canola (1/2 Ltr x 5) Carton
+[URL] https://www.daraz.pk/products/mezan-canola-12-ltr-x-5-carton-i433321471-s2077627210.html?search=1
+[Actual Price] Rs. 1,465
+[Discount Price] Rs. 1,089
+[Discount Percentage] 25%
+
+[DATETIME] 2024-02-07 18:33:49
+[TITLE] Dalda Cooking Oil 1x5kg Pillow Pouch
+[URL] https://www.daraz.pk/products/dalda-cooking-oil-1x5kg-pillow-pouch-i135970139-s1296284666.html?search=1
+[Actual Price] Rs. 2,990
+[Discount Price] Rs. 2,724
+[Discount Percentage] 8%
+
+[DATETIME] 2024-02-07 18:33:49
+[TITLE] Red Chilli Crushed200g
+[URL] https://www.daraz.pk/products/red-chilli-crushed200g-i362829829-s1813407953.html?search=1
+[Actual Price] Rs. 268
+[Discount Price] Rs. 176
+[Discount Percentage] 34%
+
+[DATETIME] 2024-02-07 18:33:49
+[TITLE] Chilli Powder 100g
+[URL] https://www.daraz.pk/products/chilli-powder-100g-i392553709-s1916573949.html?search=1
+[Actual Price] Rs. 210
+[Discount Price] Rs. 179
+[Discount Percentage] 14%
+
+[DATETIME] 2024-02-07 18:33:49
+[TITLE] Shan Lodized Salt - 800gm
+[URL] https://www.daraz.pk/products/shan-lodized-salt-800gm-i214684608-s1423696090.html?search=1
+[Actual Price] Rs. 70
+[Discount Price] Rs. 66
+[Discount Percentage] 5%
+
+[DATETIME] 2024-02-07 18:33:49
+[TITLE] Black Pepper Powder100g
+[URL] https://www.daraz.pk/products/black-pepper-powder100g-i362827967-s1813411120.html?search=1
+[Actual Price] Rs. 280
+[Discount Price] Rs. 184
+[Discount Percentage] 34%
+
+[DATETIME] 2024-02-07 18:33:50
+[TITLE] Soya Supreme Cooking Oil Pouch 1x5
+[URL] https://www.daraz.pk/products/soya-supreme-cooking-oil-pouch-1x5-i168858859-s1338336307.html?search=1
+[Actual Price] Rs. 2,995
+[Discount Price] Rs. 2,591
+[Discount Percentage] 13%
+
+[DATETIME] 2024-02-07 18:33:50
+[TITLE] Dipitt Hot Sauce 300gms
+[URL] https://www.daraz.pk/products/dipitt-hot-sauce-300gms-i377689805-s1863863676.html?search=1
+[Actual Price] Rs. 375
+[Discount Price] Rs. 338
+[Discount Percentage] 9%
+
+[DATETIME] 2024-02-07 18:33:50
+[TITLE] Dipitt Soy Sauce 310gms
+[URL] https://www.daraz.pk/products/dipitt-soy-sauce-310gms-i377708067-s1863864646.html?search=1
+[Actual Price] Rs. 405
+[Discount Price] Rs. 346
+[Discount Percentage] 14%
+
+[DATETIME] 2024-02-07 18:33:50
+[TITLE] Shangrila Peri Peri Lemon & Herbs 295gm
+[URL] https://www.daraz.pk/products/shangrila-peri-peri-lemon-herbs-295gm-i355063195-s1789033409.html?search=1
+[Actual Price] Rs. 385
+[Discount Price] Rs. 328
+[Discount Percentage] 14%
+
+[DATETIME] 2024-02-07 18:33:51
+[TITLE] Dipitt Mango Habanero - 320gms
+[URL] https://www.daraz.pk/products/dipitt-mango-habanero-320gms-i377698643-s1863864637.html?search=1
+[Actual Price] Rs. 355
+[Discount Price] Rs. 320
+[Discount Percentage] 9%
+
+[DATETIME] 2024-02-07 18:33:51
+[TITLE] MEAT TENDERIZER 40 GM
+[URL] https://www.daraz.pk/products/meat-tenderizer-40-gm-i361152213-s1810334123.html?search=1
+[Actual Price] Rs. 110
+[Discount Price] Rs. 106
+[Discount Percentage] 3%
+
+[DATETIME] 2024-02-07 18:33:51
+[TITLE] Organic Moringa Leaf Fine Powder / Drumstick Tree Leaves Powder / Oleifera Leaf Wieght Lose Powder / Super Food - Boost Metabolism - 100 Gram
+[URL] https://www.daraz.pk/products/100-i220133175-s1433383772.html?search=1
+[Actual Price] Rs. 199
+[Discount Price] Rs. 189
+[Discount Percentage] 5%
+
+[DATETIME] 2024-02-07 18:33:51
+[TITLE] Baking Powder 100gm
+[URL] https://www.daraz.pk/products/baking-powder-100gm-i431444223-s2057116707.html?search=1
+[Actual Price] Rs. 130
+[Discount Price] Rs. 103
+[Discount Percentage] 20%
+
+[DATETIME] 2024-02-07 18:33:52
+[TITLE] Smoky BBQ Sauce 360 gms
+[URL] https://www.daraz.pk/products/smoky-bbq-sauce-360-gms-i355060950-s1789029779.html?search=1
+[Actual Price] Rs. 430
+[Discount Price] Rs. 367
+[Discount Percentage] 14%
+
+[DATETIME] 2024-02-07 18:33:52
+[TITLE] Dipitt Peri Peri Medium 290gm
+[URL] https://www.daraz.pk/products/dipitt-peri-peri-medium-290gm-i377708063-s1863864631.html?search=1
+[Actual Price] Rs. 455
+[Discount Price] Rs. 388
+[Discount Percentage] 14%
+
+[DATETIME] 2024-02-07 18:33:52
+[TITLE] National foods Biryani Masala 78G
+[URL] https://www.daraz.pk/products/national-foods-biryani-masala-78g-i213358249-s1421770079.html?search=1
+[Actual Price] Rs. 230
+[Discount Price] Rs. 212
+[Discount Percentage] 7%
+
+[DATETIME] 2024-02-07 18:33:53
+[TITLE] Sagodana100 grm
+[URL] https://www.daraz.pk/products/sagodana100-grm-i362975764-s1813593021.html?search=1
+[Actual Price] Rs. 89
+[Discount Price] Rs. 86
+[Discount Percentage] 3%
+
+[DATETIME] 2024-02-07 18:33:53
+[TITLE] Shan Korma100 gm
+[URL] https://www.daraz.pk/products/shan-korma100-gm-i324677948-s1705357624.html?search=1
+[Actual Price] Rs. 250
+[Discount Price] Rs. 216
+[Discount Percentage] 13%
+
+[DATETIME] 2024-02-07 18:33:53
+[TITLE] Tullo Cooking Oil 1x5kg Pouch
+[URL] https://www.daraz.pk/products/tullo-cooking-oil-1x5kg-pouch-i134517342-s1294907483.html?search=1
+[Actual Price] Rs. 3,125
+[Discount Price] Rs. 2,649
+[Discount Percentage] 15%
+
+[DATETIME] 2024-02-07 18:33:53
+[TITLE] Yakhni Pulao 70g
+[URL] https://www.daraz.pk/products/yakhni-pulao-70g-i392553708-s1916587068.html?search=1
+[Actual Price] Rs. 120
+[Discount Price] Rs. 115
+[Discount Percentage] 4%
+
+[DATETIME] 2024-02-07 18:33:53
+[TITLE] KARAHI GOSHT KARACHI KHAAS MASALA
+[URL] https://www.daraz.pk/products/karahi-gosht-karachi-khaas-masala-i420876954-s1987811397.html?search=1
+[Actual Price] Rs. 120
+[Discount Price] Rs. 103
+[Discount Percentage] 14%
+
+[DATETIME] 2024-02-07 18:33:54
+[TITLE] Natural Vinegar 485ml
+[URL] https://www.daraz.pk/products/natural-vinegar-485ml-i355063200-s1789033417.html?search=1
+[Actual Price] Rs. 340
+[Discount Price] Rs. 290
+[Discount Percentage] 14%
+
+[DATETIME] 2024-02-07 18:33:54
+[TITLE] Eva VTF Banaspati Ghee 1Kg x 5 Pouch
+[URL] https://www.daraz.pk/products/eva-vtf-banaspati-ghee-1kg-x-5-pouch-i134826334-s1295131542.html?search=1
+[Actual Price] Rs. 2,765
+[Discount Price] Rs. 2,424
+[Discount Percentage] 12%
+
+[DATETIME] 2024-02-07 18:33:54
+[TITLE] Dipitt Oyster Sauce - 300gms
+[URL] https://www.daraz.pk/products/dipitt-oyster-sauce-300gms-i377689800-s1863863674.html?search=1
+[Actual Price] Rs. 475
+[Discount Price] Rs. 458
+[Discount Percentage] 3%
+
+[DATETIME] 2024-02-07 18:33:54
+[TITLE] 1*5 KG VEGETABLE GHEE
+[URL] https://www.daraz.pk/products/15-kg-vegetable-ghee-i421071527-s1988346077.html?search=1
+[Actual Price] Rs. 3,100
+[Discount Price] Rs. 2,343
+[Discount Percentage] 24%
+
+[DATETIME] 2024-02-07 18:33:54
+[TITLE] Dipitt Peri Peri Hot 290gm
+[URL] https://www.daraz.pk/products/dipitt-peri-peri-hot-290gm-i377689796-s1863871274.html?search=1
+[Actual Price] Rs. 455
+[Discount Price] Rs. 410
+[Discount Percentage] 9%
+
+[DATETIME] 2024-02-07 18:33:54
+[TITLE] National Foods Limited Chilli Powder 400G
+[URL] https://www.daraz.pk/products/national-foods-limited-chilli-powder-400g-i213356304-s1421768187.html?search=1
+[Actual Price] Rs. 760
+[Discount Price] Rs. 650
+[Discount Percentage] 14%
+
+[DATETIME] 2024-02-07 18:33:55
+[TITLE] National Foods Turmeric Powder - 50G
+[URL] https://www.daraz.pk/products/national-foods-turmeric-powder-50g-i213358259-s1421770090.html?search=1
+[Actual Price] Rs. 80
+[Discount Price] Rs. 75
+[Discount Percentage] 6%
+
+[DATETIME] 2024-02-07 18:33:55
+[TITLE] Eva Canola Oil 5Ltr Pet Bottle
+[URL] https://www.daraz.pk/products/eva-canola-oil-5ltr-pet-bottle-i185792146-s1371306289.html?search=1
+[Actual Price] Rs. 3,430
+[Discount Price] Rs. 2,674
+[Discount Percentage] 22%
+
+[DATETIME] 2024-02-07 18:34:22
+[TITLE] Sunridge Fortified Chakki Atta 5kg
+[URL] https://www.daraz.pk/products/sunridge-fortified-chakki-atta-5kg-i218020814-s1428864003.html?search=1
+[Actual Price] Rs. 945
+[Discount Price] Rs. 869
+[Discount Percentage] 8%
+
+[DATETIME] 2024-02-07 18:34:22
+[TITLE] Dipitt Tobasco Sauce 60ml
+[URL] https://www.daraz.pk/products/dipitt-tobasco-sauce-60ml-i377691719-s1863864645.html?search=1
+[Actual Price] Rs. 225
+[Discount Price] Rs. 191
+[Discount Percentage] 15%
+
+[DATETIME] 2024-02-07 18:34:22
+[TITLE] Fish Masala 80g
+[URL] https://www.daraz.pk/products/fish-masala-80g-i392550878-s1916583353.html?search=1
+[Actual Price] Rs. 230
+[Discount Price] Rs. 140
+[Discount Percentage] 39%
+
+[DATETIME] 2024-02-07 18:34:22
+[TITLE] Shezan Vinegar 300 ml
+[URL] https://www.daraz.pk/products/shezan-vinegar-300-ml-i425451597-s2015078485.html?search=1
+[Actual Price] Rs. 110
+[Discount Price] Rs. 85
+[Discount Percentage] 22%
+
+[DATETIME] 2024-02-07 18:34:22
+[TITLE] Dipitt Buffalo Hot Sauce 60ml
+[URL] https://www.daraz.pk/products/dipitt-buffalo-hot-sauce-60ml-i377706233-s1863859905.html?search=1
+[Actual Price] Rs. 205
+[Discount Price] Rs. 185
+[Discount Percentage] 9%
+
+[DATETIME] 2024-02-07 18:34:23
+[TITLE] ACHAR GOSHT KARACHI KHAAS MASALA
+[URL] https://www.daraz.pk/products/achar-gosht-karachi-khaas-masala-i420882726-s1987814785.html?search=1
+[Actual Price] Rs. 120
+[Discount Price] Rs. 103
+[Discount Percentage] 14%
+
+[DATETIME] 2024-02-07 18:34:23
+[TITLE] Hellmann's Real Mayonnaise - 450G
+[URL] https://www.daraz.pk/products/hellmanns-real-mayonnaise-450g-i215121840-s1424381038.html?search=1
+[Actual Price] Rs. 499
+[Discount Price] Rs. 444
+[Discount Percentage] 11%
+
+[DATETIME] 2024-02-07 18:34:23
+[TITLE] Dark Soy Sauce 500ml
+[URL] https://www.daraz.pk/products/dark-soy-sauce-500ml-i355066050-s1789033413.html?search=1
+[Actual Price] Rs. 785
+[Discount Price] Rs. 731
+[Discount Percentage] 6%
+
+[DATETIME] 2024-02-07 18:34:23
+[TITLE] BOMBAY BIRYANI KARACHI KHAAS MASALA
+[URL] https://www.daraz.pk/products/bombay-biryani-karachi-khaas-masala-i420880739-s1987811396.html?search=1
+[Actual Price] Rs. 120
+[Discount Price] Rs. 103
+[Discount Percentage] 14%
+
+[DATETIME] 2024-02-07 18:34:24
+[TITLE] National Coriander Powder 200g
+[URL] https://www.daraz.pk/products/national-coriander-powder-200g-i318537327-s1691056581.html?search=1
+[Actual Price] Rs. 310
+[Discount Price] Rs. 286
+[Discount Percentage] 7%
+
+[DATETIME] 2024-02-07 18:34:24
+[TITLE] Lemon Juice - 300ml
+[URL] https://www.daraz.pk/products/lemon-juice-300ml-i355060972-s1789029815.html?search=1
+[Actual Price] Rs. 230
+[Discount Price] Rs. 137
+[Discount Percentage] 40%
+
+[DATETIME] 2024-02-07 18:34:24
+[TITLE] White Cumin Powder100g
+[URL] https://www.daraz.pk/products/white-cumin-powder100g-i362829842-s1813411121.html?search=1
+[Actual Price] Rs. 319
+[Discount Price] Rs. 309
+[Discount Percentage] 3%
+
+[DATETIME] 2024-02-07 18:34:24
+[TITLE] National foods Shami Kabab Masala 45G
+[URL] https://www.daraz.pk/products/national-foods-shami-kabab-masala-45g-i213354311-s1421752362.html?search=1
+[Actual Price] Rs. 120
+[Discount Price] Rs. 77
+[Discount Percentage] 35%
+
+[DATETIME] 2024-02-07 18:34:24
+[TITLE] Shan Chicken White Korma 40 gm
+[URL] https://www.daraz.pk/products/shan-chicken-white-korma-40-gm-i214694303-s1423688549.html?search=1
+[Actual Price] Rs. 110
+[Discount Price] Rs. 102
+[Discount Percentage] 7%
+
+[DATETIME] 2024-02-07 18:34:25
+[TITLE] Dipitt Peri Peri Mild 290gm
+[URL] https://www.daraz.pk/products/dipitt-peri-peri-mild-290gm-i377698637-s1863861954.html?search=1
+[Actual Price] Rs. 455
+[Discount Price] Rs. 388
+[Discount Percentage] 14%
+
+[DATETIME] 2024-02-07 18:34:50
+[TITLE] National foods Kofta Masala 43G
+[URL] https://www.daraz.pk/products/national-foods-kofta-masala-43g-i213350402-s1421754344.html?search=1
+[Actual Price] Rs. 120
+[Discount Price] Rs. 113
+[Discount Percentage] 5%
+
+[DATETIME] 2024-02-07 18:35:18
+[TITLE] Mezan Cooking Oil 1x5 Ltr Carton
+[URL] https://www.daraz.pk/products/mezan-cooking-oil-1x5-ltr-carton-i118876800-s1272306115.html?search=1
+[Actual Price] Rs. 3,300
+[Discount Price] Rs. 2,475
+[Discount Percentage] 25%
+
+[DATETIME] 2024-02-07 18:35:18
+[TITLE] Rafhan Corn Oil Tin - 5L
+[URL] https://www.daraz.pk/products/rafhan-corn-oil-tin-5l-i183748578-s1366818780.html?search=1
+[Actual Price] Rs. 6,325
+[Discount Price] Rs. 5,445
+[Discount Percentage] 13%
+
+[DATETIME] 2024-02-07 18:35:19
+[TITLE] Sufi Canola Cooking Oil 1Ltr x 5 Poly Bag
+[URL] https://www.daraz.pk/products/sufi-canola-cooking-oil-1ltr-x-5-poly-bag-i131665423-s1291695544.html?search=1
+[Actual Price] Rs. 2,655
+[Discount Price] Rs. 2,495
+[Discount Percentage] 6%
+
+[DATETIME] 2024-02-07 18:35:19
+[TITLE] Tomato Ketchup Smart Pack 400gm
+[URL] https://www.daraz.pk/products/tomato-ketchup-smart-pack-400gm-i355066041-s1789032642.html?search=1
+[Actual Price] Rs. 220
+[Discount Price] Rs. 205
+[Discount Percentage] 6%
+
+[DATETIME] 2024-02-07 18:35:46
+[TITLE] National foods Tomato Ketchup 800G (Pouch)
+[URL] https://www.daraz.pk/products/national-foods-tomato-ketchup-800g-pouch-i213360238-s1421750590.html?search=1
+[Actual Price] Rs. 400
+[Discount Price] Rs. 382
+[Discount Percentage] 4%
+
+[DATETIME] 2024-02-07 18:35:46
+[TITLE] Mezan Ghee 1x5 Ltr Carton
+[URL] https://www.daraz.pk/products/mezan-ghee-1x5-ltr-carton-i118892254-s1272290830.html?search=1
+[Actual Price] Rs. 2,650
+[Discount Price] Rs. 2,306
+[Discount Percentage] 12%
+
+[DATETIME] 2024-02-07 18:35:46
+[TITLE] FALAK OREGANO LEAVES 30GM
+[URL] https://www.daraz.pk/products/falak-oregano-leaves-30gm-i364886883-s1816642508.html?search=1
+[Actual Price] Rs. 200
+[Discount Price] Rs. 180
+[Discount Percentage] 10%
+
+[DATETIME] 2024-02-07 18:35:47
+[TITLE] Chilli Garlic 400 grams
+[URL] https://www.daraz.pk/products/chilli-garlic-400-grams-i355063177-s1789029780.html?search=1
+[Actual Price] Rs. 300
+[Discount Price] Rs. 280
+[Discount Percentage] 6%
+
+[DATETIME] 2024-02-07 18:36:13
+[TITLE] Mezan Olivola Oil - 1 Ltr - Pack of 5 Pouches
+[URL] https://www.daraz.pk/products/mezan-olivola-oil-1-ltr-pack-of-5-pouches-i118878811-s1272300260.html?search=1
+[Actual Price] Rs. 3,300
+[Discount Price] Rs. 2,818
+[Discount Percentage] 14%
+
